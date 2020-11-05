@@ -1,0 +1,2 @@
+// export const GET_ERROR_DETAILS = 'GET_ERROR_DETAILS';
+export const SET_SHIFTS = 'SET_SHIFTS'
